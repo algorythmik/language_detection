@@ -1,8 +1,8 @@
 import os
 import re
 
-import pandas as pd
 import nltk
+import pandas as pd
 
 
 def process_sentence(sentence):
