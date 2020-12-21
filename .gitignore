@@ -25,3 +25,8 @@ ENV/
 data/
 # ignore mlruns
 mlruns/
+
+# vscode
+.vscode/
+
+.DS_Store
