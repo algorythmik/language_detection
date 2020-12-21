@@ -1,6 +1,6 @@
 # language_detection
 This repo contains the code for training an serving a language detector.
-The model is an RNN based classifier trained to classify norwegian and dansih languages and it trained on data from the danish and norwegian wikipedia.
+The model is an RNN based classifier trained to classify norwegian and dansih languages and it trained on data from the danish and norwegian wikipedia. There is a notebook in `research/notebooks` containing details of modelling.
 
 ## Run with Docker
 With Docker, you can quickly build and run the entire application.
